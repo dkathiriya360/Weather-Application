@@ -8,7 +8,6 @@ from PIL import Image, ImageTk
 import time 
 import re
 
-
 # root window
 root = Tk()
 root.title("Weather App")
